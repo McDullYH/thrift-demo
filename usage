@@ -1,0 +1,8 @@
+1. install thrift
+
+2. generate file 
+thrift -r --gen py  printer.thrift
+
+3. start server & client
+
+
